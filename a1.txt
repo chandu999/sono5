@@ -1,3 +1,7 @@
 hello
 chandra
+<<<<<<< Updated upstream
 bhaskar
+=======
+bharath
+>>>>>>> Stashed changes
