@@ -1,6 +1,7 @@
 hello
 chandra
-<<<<<<< Updated upstream
+<<<<<
+hhh<< Updated upstream
 bhaskar
 =======
 bharath
