@@ -2,7 +2,17 @@ hello
 chandra
 <<<<<<< HEAD
 <<<<<
+<<<<<<< HEAD
 hhh<< Updated upstream
 =======
 >>>>>>> parent of fe9a735... chan
 bhaskar
+h=======
+hhhh<< Updated upstream
+bhaskar
+=======
+bharath
+>>>>>>> Stashed changes
+hello:wq
+
+>>>>>>> h
